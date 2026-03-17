@@ -1,4 +1,4 @@
-# Olist E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
 ## Project Overview
 The Olist marketplace dataset provides detailed information about e-commerce transactions including customers, orders, sellers, products, payments, and reviews.  
