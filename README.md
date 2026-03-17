@@ -102,6 +102,14 @@ ecommerce-sales-analysis
 └── README.md
 ```
 ---
+
+## Additional Resources
+
+> Due to GitHub file size limitations, the **Power BI dashboard, dataset, and SQL files** are hosted on Hugging Face.
+
+https://huggingface.co/spaces/codedevrosh/ecommerce_sales_analysis/tree/main
+
+---
 ## Conclusion
 This project demonstrates a complete **end-to-end data analysis workflow**:
 
