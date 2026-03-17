@@ -56,7 +56,7 @@ Key features include:
 ---
 
 ## Key Insights
-- The marketplace processed **~79K orders generating ~13.5M in revenue**.
+- The marketplace processed **~99K orders generating ~13.5M in revenue**.
 - **Health & Beauty and Watches & Gifts** are among the top selling product categories.
 - Customers are concentrated in major regions such as **São Paulo**.
 - **Freight cost increases with product weight**, impacting logistics expenses.
@@ -96,6 +96,8 @@ ecommerce-sales-analysis
 ├── Report.docx
 │ 
 ├── dashboard_preview.png
+├── dashboard_preview_1.png
+├── dashboard_preview_2.png
 │
 └── README.md
 ```
